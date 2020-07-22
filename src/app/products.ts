@@ -19,7 +19,7 @@ export const products = [
     name: 'CapitalOne BatPhone',
     price: 10000,
     description: 'You would not beleve it...'
-  },
+  }
 ];
 
 
